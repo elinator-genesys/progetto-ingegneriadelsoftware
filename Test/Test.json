@@ -1,0 +1,66 @@
+{ 
+
+ "laureando0" : {
+    "nome" : "GIANLUIGI",
+    "cognome" : "DONNARUMMA",
+    "matricola" : "123456",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "cdl" : "T. Ing. Informatica",
+    "anno_immatricolazione" : 2016,
+    "anno_chiusura" : 2021,
+    "bonus" : "NO",
+    "media_pesata" : 23.655,
+    "crediti_media" : 174,
+    "crediti_curriculari_conseguiti" : 177,
+    "media_pesata_inf" : 23.667
+ },
+
+ "laureando1" : {
+    "nome" : "ALESSANDRO",
+    "cognome" : "BASTONI",
+    "matricola" : "234567",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "cdl" : "M. Ing. Elettronica",
+    "media_pesata" : 24.559,
+    "crediti_media" : 102,
+    "crediti_curriculari_conseguiti" : 102
+ },
+
+ "laureando2" : {
+    "nome" : "NICCOLO",
+    "cognome" : "BARELLA",
+    "matricola" : "345678",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "cdl" : "T. Ing. Informatica",
+    "anno_immatricolazione" : 2019,
+    "anno_chiusura" : 2021,
+    "bonus" : "SI",
+    "media_pesata" : 25.564,
+    "crediti_media" : 165,
+    "crediti_curriculari_conseguiti" : 177,
+    "media_pesata_inf" : 25.75
+ },
+
+ "laureando3" : {
+    "nome" : "MATTEO",
+    "cognome" : "POLITANO",
+    "matricola" : "456789",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "cdl" : "M. Ing. delle Telecomunicazioni",
+    "media_pesata" : 32.625,
+    "crediti_media" : 96,
+    "crediti_curriculari_conseguiti" : 96
+ },
+
+ "laureando4" : {
+    "nome" : "FRANCESCO",
+    "cognome" : "ACERBI",
+    "matricola" : "567890",
+    "email_ate": "nome.cognome@studenti.unipi.it",
+    "cdl" : "M. Cybersecurity",
+    "media_pesata" : 24.882,
+    "crediti_media" : 102,
+    "crediti_curriculari_conseguiti" : 120
+ }
+
+}
